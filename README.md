@@ -1,4 +1,4 @@
-# 🌌 Harish's 3D Portfolio Website 🚀
+# 🌌 Krish's 3D Portfolio Website 🚀
 
 Welcome to my interactive **3D Portfolio Website**! Crafted using cutting-edge frontend libraries and modern 3D rendering technologies, this site acts as a digital gallery of my engineering journey, projects, and experiences.
 
@@ -96,7 +96,7 @@ Click on the headers below to interactively expand the sections!
 ## 🛠️ Project Structure
 
 ```bash
-HarishPortfolio/
+PORTFOLIO/
 ├── public/              # Static assets (3D models, textures, favicons)
 ├── src/
 │   ├── assets/          # Images and structural assets
